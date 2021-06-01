@@ -1,5 +1,5 @@
 1.INSERT INTO toit (nimi, tuup)
   VALUES(banaan, puuvilja); - add data to the database
-2.CHANGE TABLE toit
+2.ALTER TABLE toit
   ADD Quantity int; - add column to the table
 3.SELECT ALL FROM toit; - watch all data in the table
