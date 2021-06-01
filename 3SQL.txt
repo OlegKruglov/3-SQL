@@ -2,4 +2,4 @@
   VALUES(banaan, puuvilja); - add data to the database
 2.ALTER TABLE toit
   ADD Quantity int; - add column to the table
-3.SELECT ALL FROM toit; - watch all data in the table
+3.SELECT * FROM toit; - watch all data in the table
